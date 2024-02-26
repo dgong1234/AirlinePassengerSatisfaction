@@ -1,0 +1,1 @@
+This project used Logistic Regression, KNN, Decision Trees, Random Forest, and Gradient Boosting to determine the most important airline features as well as predict if a customer will be satisfied or not.
